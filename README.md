@@ -1,4 +1,4 @@
-# Niyu
+# NovaLang
 
 A programming language and compiler built from scratch using C++20.
 
@@ -19,7 +19,7 @@ cmake --build build
 ```
 
 ## Run
-./build/nova
+./build/NovaLang
 
 ## Requirements
 ``` txt
