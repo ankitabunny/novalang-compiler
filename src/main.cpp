@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout<<"Hello from the compiler";
+    std::cout<<"Hello from the compiler\n";
     return 0;
 }
